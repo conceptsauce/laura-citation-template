@@ -38,4 +38,4 @@ OAKS, Dallin, “Studying the Exclusionary Rule in Search and Seizure”, cit., p. 4
 
 ---
 This CSL template was built by [Sebastian Karcher](https://www.sebastiankarcher.com)
- and with the help of [Rintze Zelle](http://rintze.zelle.me). Thank you both :)
+ and with the help from [Rintze Zelle](http://rintze.zelle.me). Thank you both :)
