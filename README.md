@@ -4,7 +4,7 @@ Using the CSL template is easy, just import it via the URL into Mendeley or Zote
 
 ![citation example CSL](https://github.com/conceptsauce/laura-merkel-citation-template/blob/master/citation%20Example.jpg "citation example CSL")
 
-See the video ![here](https://youtu.be/0J4PUzS6GtY "Video") on how to import this CSL template using the URL ![CSl link](https://github.com/conceptsauce/laura-merkel-citation-template/blob/master/laura-merkel-thesis.csl "CSL URL")
+See the video [here](https://youtu.be/0J4PUzS6GtY) on how to import this CSL template using the URL [CSl link](https://github.com/conceptsauce/laura-merkel-citation-template/blob/master/laura-merkel-thesis.csl)
 
 
 
