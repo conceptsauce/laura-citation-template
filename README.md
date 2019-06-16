@@ -29,11 +29,11 @@ ILLUMINATI, Giulio, Il Giudizio, in Compendio di procedura penale, (a cura di) G
 EMSLEY, Clive, Crime, Police, and Penal Policy, cit., p. 43.
 
 
-
-
-This CSL template was built by Sebastian Karcher and with the help of Rintze Zelle. Thank you both :)
 ##If Journal Article is allready cited in the document then it
 [LAST NAME (UPPER CAPS)], [First name], “[Article Title (Italic)]”, cit, [p. #]
 
 OAKS, Dallin, “Studying the Exclusionary Rule in Search and Seizure”, cit., p. 40.
 
+
+
+This CSL template was built by Sebastian Karcher and with the help of Rintze Zelle. Thank you both :)
